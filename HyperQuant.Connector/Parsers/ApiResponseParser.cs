@@ -1,5 +1,5 @@
-﻿using HyoerQuant.Core.Interfaces;
-using HyperQuant.Core.Model;
+﻿using HyperQuant.Core.Interfaces;
+using HyperQuant.Core.Models;
 using System.Text.Json;
 
 namespace HyperQuant.Connector.Parsers

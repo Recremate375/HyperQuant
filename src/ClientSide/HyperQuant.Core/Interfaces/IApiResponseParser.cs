@@ -1,7 +1,7 @@
-﻿using HyperQuant.Core.Model;
+﻿using HyperQuant.Core.Models;
 using System.Text.Json;
 
-namespace HyoerQuant.Core.Interfaces
+namespace HyperQuant.Core.Interfaces
 {
     public interface IApiResponseParser
     {

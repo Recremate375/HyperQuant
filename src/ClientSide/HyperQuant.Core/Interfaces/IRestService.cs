@@ -1,6 +1,6 @@
-﻿using HyperQuant.Core.Model;
+﻿using HyperQuant.Core.Models;
 
-namespace HyoerQuant.Core.Interfaces
+namespace HyperQuant.Core.Interfaces
 {
     public interface IRestService : IDisposable
     {

@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\src\ClientSide\HyperQuant.Core\HyperQuant.Core.csproj" />
-  </ItemGroup>
-
 </Project>
